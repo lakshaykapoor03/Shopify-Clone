@@ -7,7 +7,7 @@
 
 ### This project is showing a web page of a Shopify website.
 ### Learnings
-In this project I learned about the Tailwind CSS framework and how to add css only using class names and also learned to give differnt screen sixes like md,sm and lg accordingly to make the website responsive.
+In this project I learned about the Tailwind CSS framework and how to add css only using class names and also learned to give differnt screen sizes like md,sm and lg accordingly to make the website responsive.
 ### Time taken
 Almost 2 days.
 
