@@ -19,6 +19,9 @@ Almost 2 days.
 
 </br>
 
+## Paytm Clone link- [Paytm](https://github.com/lakshaykapoor03/Paytm-Clone)
+## Rode Clone link- [Rode](https://github.com/lakshaykapoor03/Rode-Clone)
+
 
 ## Project Live Link:
 
